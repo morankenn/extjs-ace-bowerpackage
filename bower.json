@@ -1,0 +1,23 @@
+{
+  "name": "extjs-ace-bowerpackage",
+  "version": "0.2.0",
+  "homepage": "https://github.com/morankenn/extjs-ace-bowerpackage",
+  "authors": [
+    "morankenn <morankenn@gmail.com>"
+  ],
+  "description": "bower package for ACE editor",
+  "main": "src/ace.js",
+  "keywords": [
+    "ace",
+    "editor",
+    "extjs4"
+  ],
+  "license": "GPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
